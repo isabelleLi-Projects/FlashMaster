@@ -2,7 +2,7 @@
 
 # Version 0.2
 Who did what:
-1. Sebastian Lim:
+1. Sebastian Lim: Define Deck
 2. Shiva Anne:
 3. Isabelle Li: Created GitHub repository and updated README file
 
