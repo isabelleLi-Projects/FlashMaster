@@ -3,7 +3,7 @@
  # Version: 0.2
  Who did what: 
  1. Sebastian Lim: 
- 2. Shiva Anne: 
+ 2. Shiva Anne: Homepage
  3. Isabelle Li: Created GitHub repository and updated README file
 
  # Technical-Spec
